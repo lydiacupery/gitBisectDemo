@@ -11,7 +11,7 @@ const Home: BlitzPage = () => {
     <div className="container">
       <main>
         <p>Welcome to this app!</p>
-        <p>Thanks for stopping by!</p>
+        <p>Today is going to be a great day ☀️</p>
         <p>This site is pretty empty, but I promise there will be more coming soon!</p>
       </main>
 
