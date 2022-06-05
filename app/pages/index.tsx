@@ -14,6 +14,7 @@ const Home: BlitzPage = () => {
         <p>This site is pretty empty, but I promise there will be more coming soon!</p>
         <p>Starting the day out by baking some bread 🥖</p>
         <p>And maybe even some BANANA bread 🍌 🥖</p>
+        <p>Or maybe some BANANA pie 🍌 🥧 (does that exist?)</p>
       </main>
 
       <footer>
