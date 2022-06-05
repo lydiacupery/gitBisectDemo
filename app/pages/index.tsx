@@ -12,6 +12,7 @@ const Home: BlitzPage = () => {
       <main>
         <p>Welcome to this app!</p>
         <p>Thanks for stopping by!</p>
+        <p>This site is pretty empty, but I promise there will be more coming soon!</p>
       </main>
 
       <footer>
